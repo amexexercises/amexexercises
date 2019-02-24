@@ -1,12 +1,5 @@
 package com.aexp.exercises;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Optional;
-import java.util.OptionalInt;
-
 public class MaximumExercise {
 
 	public Integer maximum1(Integer[] list) {

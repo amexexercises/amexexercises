@@ -9,6 +9,7 @@ public class UppercaseExercise {
 		// Complete the method to return the elements in the list converted to
 		// uppercase.
 		// Do this using a single statement (i.e. not using for, do or while)
+		return null;
 	}
 
 	public static void main(String[] args) {

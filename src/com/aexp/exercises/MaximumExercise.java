@@ -4,10 +4,12 @@ public class MaximumExercise {
 
 	public Integer maximum1(Integer[] list) {
 		//Return the maximum int
+		return null;
 	}
 
 	public Integer maximum2(Integer[] list) {
 		//Use a different approach
+		return null;
 	}
 
 
